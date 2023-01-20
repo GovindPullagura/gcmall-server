@@ -1,0 +1,23 @@
+{
+  "name": "gcmall-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GovindPullagura/gcmall-server.git"
+  },
+  "author": "govind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GovindPullagura/gcmall-server/issues"
+  },
+  "homepage": "https://github.com/GovindPullagura/gcmall-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

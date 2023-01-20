@@ -1,0 +1,654 @@
+{
+  "men": [
+    {
+      "id": 3,
+      "brand": "Traco",
+      "title": "Men Micro Polyester Trackpant-Black",
+      "price": 299,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPFASHION-7-REFASH623713517E9CF2/1562910383588_0..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 2,
+      "brand": "TwoPeople India",
+      "title": "Black Silk Blend Pathani Kurta",
+      "price": 1999,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPTWOPEOPLE-INMR-T17877878A9A0D4/1562758891306_0.jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 1,
+      "brand": "THE BEAR HOUSE",
+      "title": "Men Blue Checked Slim Fit Casual Shirt",
+      "price": 499,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPTHE-BEAR-HOUTHE-875384F87E7AE3/1563095169255_0..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 4,
+      "brand": "U.S.Polo Assn.",
+      "title": "Men Black Solid Leather jacket",
+      "price": 8999,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPU-S-POLO-ASSKAPS5784905C73720F/1562847975458_1..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 5,
+      "brand": "Bata",
+      "title": "Men's Sandals(Brown)",
+      "price": 1099,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOBATA-MENS-BRFASH97070CCFB36D3/1563348352741_0..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 6,
+      "brand": "Lancer",
+      "title": "Floaters for Men (Blue)",
+      "price": 799,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOLANCER-BLUE-FASH9707037E5679B/1564604449295_1..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 7,
+      "brand": "Peter England",
+      "title": "Men Slim fit Formal Shirt - Green",
+      "price": 549,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPPETER-ENGLANADIT50996AF0E9514/1562790387722_1..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 8,
+      "brand": "Red tape",
+      "title": "Walking Shoes For Men ( Black )",
+      "price": 1120,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOORED-TAPE-MENRED-250979AD4D75CC/1564205785225_0..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 9,
+      "brand": "Nike",
+      "title": "Outdoor Slippers for Men (Gray)",
+      "price": 995,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOONIKE-MEN-S-CBIG-262974A5EE13E/1564595001695_0.jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 10,
+      "brand": "Dee Mannequin",
+      "title": "Brown Leather Rite Gym Bag",
+      "price": 299,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/S/SP/SPODEE-MANNEQUIDEE-23758569365CBE/a_0..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 11,
+      "brand": "Red Chief",
+      "title": "Men Brown Formal Shoes",
+      "price": 2149,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOORED-CHIEF-MEREDC2009872D6923C/1564562700303_1..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 12,
+      "brand": "U.S. Polo Assn.",
+      "title": "Men Grey Tapered Fit Jeans",
+      "price": 2239,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPU-S-POLO-ASSARVI76365746946952/1564919046069_0..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 13,
+      "brand": "Puma",
+      "title": "SF Future Kart Cat Casual Shoes For Men (Red)",
+      "price": 2699,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOPUMA-UNISEX-PUMA3358237EFFA1EB/1564561835049_1..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 14,
+      "brand": "Woodland",
+      "title": "Casual Shoes For Men ( Brown )",
+      "price": 3297,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOWOODLAND-MENAERO21259F6154ABE/1564566169898_7.jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 15,
+      "brand": "Louis Philippe",
+      "title": "Men Brown Leather Bi-Fold Wallet",
+      "price": 1019,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/A/AC/ACCLOUIS-PHILIPADIT5099621F64865/1563515440146_1..jpg?imwidth=320&impolicy=hq"
+    }
+  ],
+  "women": [
+    {
+      "id": 1,
+      "brand": "bhuwal fashion",
+      "title": "zari embroidery poly cotton silk saree with blouse pcs",
+      "price": 330,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPBHUWAL-FASHISHRE226594C367F36/1574675416840_9.jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 2,
+      "brand": "9ZEUS",
+      "title": "Women Yellow Printed A Line Fusion Dresses",
+      "price": 480,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APP9ZEUS-WOMEN-A-S-8669231CDCFE44/1563005162113_1..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 3,
+      "brand": "Athena",
+      "title": "Accordion Pleats Wrap Dress",
+      "price": 1315,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18962952/2022/7/18/cba9c9aa-86bd-46a4-8882-859a5587c6161658131220271-Athena-Lavender-V-Neck-blingy--Dress-8311658131219837-1.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "SASSAFRAS",
+      "title": "Blazer Dress",
+      "price": 899,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10607436/2019/11/7/77e1b62b-c34c-4cff-a68e-f3de1c1a886a1573108038526-SASSAFRAS-Women-Black-Solid-Trench-Dress-6681573108036504-1.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "Antheaa",
+      "title": "Smocked Tiered Midi Dress",
+      "price": 1199,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15577328/2021/10/19/3f477c11-9550-4db8-b360-7621b5fddd9b1634625769534-Antheaa-Women-Dresses-7701634625767867-1.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "Libas",
+      "title": "Ethnic Motifs A-Line Dress",
+      "price": 879,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10842022/2019/11/6/a373d08e-a2fb-4cbf-9a19-dd9679ea0c181573032453223-Libas-Women-Dresses-7681573032451400-1.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "Ishin",
+      "title": "Ethnic Motifs Dress",
+      "price": 1759,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13901756/2022/5/10/016438e0-e11f-4022-928c-fd8286b0cd221652163797752-Ishin-Off-White-Self-Design-Fit-and-Flare-Dress-816521637971-1.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "Janasya",
+      "title": "Floral Georgette Midi Dress",
+      "price": 965,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14867358/2021/7/19/e3e8c727-919c-4175-ba7b-a7627ed7c6a01626696220039JanasyaBlueEthnicMotifsGeorgetteEmpireMidiDress1.jpg"
+    },
+    {
+      "id": 9,
+      "brand": "Berrylush",
+      "title": "Floral Ruched Dress",
+      "price": 551,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15583258/2021/10/12/1d13b8e6-2c23-4b9c-a45a-508f368f049e1634036755097-Berrylush-Women-Red-Ditsy-Floral-Tie-Shoulder-Ruched-Dress-5-1.jpg"
+    },
+    {
+      "id": 10,
+      "brand": "Athena",
+      "title": "Slit Sleeves Maxi Dress",
+      "price": 1999,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10813300/2019/12/2/34fdf73a-8f2c-41e3-b3ed-53729f77d7841575272619313-Athena-Black-Embellished-Slit-Sleeves-Maxi-Dress-67715752726-1.jpg"
+    },
+    {
+      "id": 11,
+      "brand": "Antheaa",
+      "title": "Floral Print Fit & Flare Dress",
+      "price": 1229,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12595594/2020/10/15/b6e22b58-3450-468f-afeb-3218b6ce7acb1602737925709SareemallNavyBluePolyChiffonSolidEthnicPartywearSareewithMat1.jpg"
+    },
+    {
+      "id": 12,
+      "brand": "Ahalyaa",
+      "title": "Striped Ethnic Maxi Dress",
+      "price": 1392,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19411938/2022/8/17/d5f17264-b4a0-4d4b-8392-5325df9b9c601660735051287-Ahalyaa-Women-Dresses-1111660735050677-1.jpg"
+    },
+    {
+      "id": 13,
+      "brand": "Zyla",
+      "title": "Women Sandals",
+      "price": 899,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14116044/2022/7/13/0ef4fd87-792a-4091-8b74-dcc872475d3b1657707800771-Zyla-Women-Rose-Gold-Solid-Sandals-8511657707800403-1.jpg"
+    },
+    {
+      "id": 14,
+      "brand": "Kiana",
+      "title": "Women Mojaris Flats",
+      "price": 591,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17792878/2022/5/5/d86eddb8-e5c7-4e68-bc1e-cf8a08560ec01651729269959KianaWomenOffWhitePrintedMojarisFlats1.jpg"
+    },
+    {
+      "id": 15,
+      "brand": "Mango",
+      "title": "Velvet Structured Sling Bag",
+      "price": 1076,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21435510/2023/1/10/709e28a8-7908-4538-9a58-6458e61791291673346276670indianflowerWomenSolidAnkleLengthLeggingsHandbagsMANGOWomenH1.jpg"
+    }
+  ],
+  "mobiles": [
+    {
+      "id": 1,
+      "brand": "realme",
+      "title": "realme 9 (Stargaze White, 128 GB)",
+      "price": 14599,
+      "image": "https://rukminim1.flixcart.com/image/312/312/l3t2fm80/mobile/v/0/b/-original-imageu8ctfzzstqp.jpeg?q=70"
+    },
+    {
+      "id": 2,
+      "brand": "SAMSUNG",
+      "title": "SAMSUNG Galaxy F23 5G (Aqua Blue, 128 GB)",
+      "price": 14999,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/0/h/k/-original-imagcg22czc3ggvw.jpeg?q=70"
+    },
+    {
+      "id": 3,
+      "brand": "REDMI",
+      "title": "REDMI Note 11 SE (Cosmic White, 64 GB)",
+      "price": 11999,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/r/7/s/-original-imaghh2fmnzyzn2g.jpeg?q=70"
+    },
+    {
+      "id": 4,
+      "brand": "realme",
+      "title": "realme C30 (Bamboo Green, 32 GB)",
+      "price": 5749,
+      "image": "https://rukminim1.flixcart.com/image/312/312/l4ln8nk0/mobile/p/h/p/-original-imagfggryyzyvhgw.jpeg?q=70"
+    },
+    {
+      "id": 5,
+      "brand": "SAMSUNG",
+      "title": "SAMSUNG Galaxy F23 5G (Aqua Blue, 128 GB)",
+      "price": 13999,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/0/h/k/-original-imagcg22czc3ggvw.jpeg?q=70"
+    },
+    {
+      "id": 6,
+      "brand": "Vivo",
+      "title": "vivo T1 5G (Rainbow Fantasy, 128 GB)",
+      "price": 16990,
+      "image": "https://rukminim1.flixcart.com/image/312/312/kzd147k0/mobile/m/c/f/-original-imagbe5qknarjywp.jpeg?q=70"
+    },
+    {
+      "id": 7,
+      "brand": "POCO",
+      "title": "POCO C31 (Shadow Gray, 64 GB)",
+      "price": 7499,
+      "image": "https://rukminim1.flixcart.com/image/312/312/ku4ezrk0/mobile/b/o/m/c31-mzb0a0min-poco-original-imag7bzqxekkpkrv.jpeg?q=70"
+    },
+    {
+      "id": 8,
+      "brand": "MOTOROLA",
+      "title": "MOTOROLA g52 (Metallic White, 128 GB)",
+      "price": 12999,
+      "image": "https://rukminim1.flixcart.com/image/312/312/l29c9e80/mobile/4/f/z/-original-imagdnefpypk9cgx.jpeg?q=70"
+    },
+    {
+      "id": 9,
+      "brand": "Apple",
+      "title": "APPLE iPhone 13 (Midnight, 128 GB)",
+      "price": 60999,
+      "image": "https://rukminim1.flixcart.com/image/312/312/ktketu80/mobile/s/l/c/iphone-13-mlpf3hn-a-apple-original-imag6vzz5qvejz8z.jpeg?q=70"
+    },
+    {
+      "id": 10,
+      "brand": "Apple",
+      "title": "APPLE iPhone 12 mini (Black, 64 GB)",
+      "price": 38999,
+      "image": "https://rukminim1.flixcart.com/image/312/312/kg8avm80/mobile/n/p/d/apple-iphone-12-mini-dummyapplefsn-original-imafwgbfwkfrerak.jpeg?q=70"
+    },
+    {
+      "id": 11,
+      "brand": "OnePlus",
+      "title": "OnePlus Nord CE 2 Lite 5G (Blue Tide, 128 GB)",
+      "price": 19985,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/9/x/u/-original-imagg2abzhxjckxu.jpeg?q=70"
+    },
+    {
+      "id": 12,
+      "brand": "OnePlus",
+      "title": "OnePlus 10R 5G (Forest Green, 128 GB)",
+      "price": 34858,
+      "image": "https://rukminim1.flixcart.com/image/312/312/l2qhjm80/mobile/d/v/o/10r-5g-le2608-oneplus-original-imageypzw8gumvyz.jpeg?q=70"
+    },
+    {
+      "id": 13,
+      "brand": "OnePlus",
+      "title": "OnePlus 10T 5G (Jade Green, 128 GB)",
+      "price": 48999,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/v/8/p/-original-imaggceehgfugqvf.jpeg?q=70"
+    },
+    {
+      "id": 14,
+      "brand": "OnePlus",
+      "title": "OnePlus 10R 5G (Sierra Black, 256 GB)",
+      "price": 40890,
+      "image": "https://rukminim1.flixcart.com/image/312/312/l2qhjm80/mobile/c/f/r/10r-5g-le2608-oneplus-original-imageyq5akea25we.jpeg?q=70"
+    },
+    {
+      "id": 15,
+      "brand": "OnePlus",
+      "title": "OnePlus Nord CE 2 Lite 5G (Black Dusk, 128 GB)",
+      "price": 21999,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/7/o/d/nord-ce-2-lite-5g-cph2381-oneplus-original-imagdwf8gvgqyr7j.jpeg?q=70"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Govind",
+      "lastName": "Pullagura",
+      "email": "govind14634@gmail.com",
+      "password": "12344321"
+    },
+    {
+      "email": "govind14634@gmail.com",
+      "password": "12344321",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 3,
+      "brand": "Traco",
+      "title": "Men Micro Polyester Trackpant-Black",
+      "price": 299,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPFASHION-7-REFASH623713517E9CF2/1562910383588_0..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 2,
+      "brand": "TwoPeople India",
+      "title": "Black Silk Blend Pathani Kurta",
+      "price": 1999,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPTWOPEOPLE-INMR-T17877878A9A0D4/1562758891306_0.jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 1,
+      "brand": "THE BEAR HOUSE",
+      "title": "Men Blue Checked Slim Fit Casual Shirt",
+      "price": 499,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPTHE-BEAR-HOUTHE-875384F87E7AE3/1563095169255_0..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 4,
+      "brand": "U.S.Polo Assn.",
+      "title": "Men Black Solid Leather jacket",
+      "price": 8999,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPU-S-POLO-ASSKAPS5784905C73720F/1562847975458_1..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 5,
+      "brand": "Bata",
+      "title": "Men's Sandals(Brown)",
+      "price": 1099,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOBATA-MENS-BRFASH97070CCFB36D3/1563348352741_0..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 6,
+      "brand": "Lancer",
+      "title": "Floaters for Men (Blue)",
+      "price": 799,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOLANCER-BLUE-FASH9707037E5679B/1564604449295_1..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 7,
+      "brand": "Peter England",
+      "title": "Men Slim fit Formal Shirt - Green",
+      "price": 549,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPPETER-ENGLANADIT50996AF0E9514/1562790387722_1..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 8,
+      "brand": "Red tape",
+      "title": "Walking Shoes For Men ( Black )",
+      "price": 1120,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOORED-TAPE-MENRED-250979AD4D75CC/1564205785225_0..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 9,
+      "brand": "Nike",
+      "title": "Outdoor Slippers for Men (Gray)",
+      "price": 995,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOONIKE-MEN-S-CBIG-262974A5EE13E/1564595001695_0.jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 10,
+      "brand": "Dee Mannequin",
+      "title": "Brown Leather Rite Gym Bag",
+      "price": 299,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/S/SP/SPODEE-MANNEQUIDEE-23758569365CBE/a_0..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 11,
+      "brand": "Red Chief",
+      "title": "Men Brown Formal Shoes",
+      "price": 2149,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOORED-CHIEF-MEREDC2009872D6923C/1564562700303_1..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 12,
+      "brand": "U.S. Polo Assn.",
+      "title": "Men Grey Tapered Fit Jeans",
+      "price": 2239,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPU-S-POLO-ASSARVI76365746946952/1564919046069_0..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 13,
+      "brand": "Puma",
+      "title": "SF Future Kart Cat Casual Shoes For Men (Red)",
+      "price": 2699,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOPUMA-UNISEX-PUMA3358237EFFA1EB/1564561835049_1..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 14,
+      "brand": "Woodland",
+      "title": "Casual Shoes For Men ( Brown )",
+      "price": 3297,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/F/FO/FOOWOODLAND-MENAERO21259F6154ABE/1564566169898_7.jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 15,
+      "brand": "Louis Philippe",
+      "title": "Men Brown Leather Bi-Fold Wallet",
+      "price": 1019,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/A/AC/ACCLOUIS-PHILIPADIT5099621F64865/1563515440146_1..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 16,
+      "brand": "bhuwal fashion",
+      "title": "zari embroidery poly cotton silk saree with blouse pcs",
+      "price": 330,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPBHUWAL-FASHISHRE226594C367F36/1574675416840_9.jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 17,
+      "brand": "9ZEUS",
+      "title": "Women Yellow Printed A Line Fusion Dresses",
+      "price": 480,
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APP9ZEUS-WOMEN-A-S-8669231CDCFE44/1563005162113_1..jpg?imwidth=320&impolicy=hq"
+    },
+    {
+      "id": 18,
+      "brand": "Athena",
+      "title": "Accordion Pleats Wrap Dress",
+      "price": 1315,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18962952/2022/7/18/cba9c9aa-86bd-46a4-8882-859a5587c6161658131220271-Athena-Lavender-V-Neck-blingy--Dress-8311658131219837-1.jpg"
+    },
+    {
+      "id": 19,
+      "brand": "SASSAFRAS",
+      "title": "Blazer Dress",
+      "price": 899,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10607436/2019/11/7/77e1b62b-c34c-4cff-a68e-f3de1c1a886a1573108038526-SASSAFRAS-Women-Black-Solid-Trench-Dress-6681573108036504-1.jpg"
+    },
+    {
+      "id": 20,
+      "brand": "Antheaa",
+      "title": "Smocked Tiered Midi Dress",
+      "price": 1199,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15577328/2021/10/19/3f477c11-9550-4db8-b360-7621b5fddd9b1634625769534-Antheaa-Women-Dresses-7701634625767867-1.jpg"
+    },
+    {
+      "id": 21,
+      "brand": "Libas",
+      "title": "Ethnic Motifs A-Line Dress",
+      "price": 879,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10842022/2019/11/6/a373d08e-a2fb-4cbf-9a19-dd9679ea0c181573032453223-Libas-Women-Dresses-7681573032451400-1.jpg"
+    },
+    {
+      "id": 22,
+      "brand": "Ishin",
+      "title": "Ethnic Motifs Dress",
+      "price": 1759,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13901756/2022/5/10/016438e0-e11f-4022-928c-fd8286b0cd221652163797752-Ishin-Off-White-Self-Design-Fit-and-Flare-Dress-816521637971-1.jpg"
+    },
+    {
+      "id": 23,
+      "brand": "Janasya",
+      "title": "Floral Georgette Midi Dress",
+      "price": 965,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14867358/2021/7/19/e3e8c727-919c-4175-ba7b-a7627ed7c6a01626696220039JanasyaBlueEthnicMotifsGeorgetteEmpireMidiDress1.jpg"
+    },
+    {
+      "id": 24,
+      "brand": "Berrylush",
+      "title": "Floral Ruched Dress",
+      "price": 551,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15583258/2021/10/12/1d13b8e6-2c23-4b9c-a45a-508f368f049e1634036755097-Berrylush-Women-Red-Ditsy-Floral-Tie-Shoulder-Ruched-Dress-5-1.jpg"
+    },
+    {
+      "id": 25,
+      "brand": "Athena",
+      "title": "Slit Sleeves Maxi Dress",
+      "price": 1999,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10813300/2019/12/2/34fdf73a-8f2c-41e3-b3ed-53729f77d7841575272619313-Athena-Black-Embellished-Slit-Sleeves-Maxi-Dress-67715752726-1.jpg"
+    },
+    {
+      "id": 26,
+      "brand": "Antheaa",
+      "title": "Floral Print Fit & Flare Dress",
+      "price": 1229,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12595594/2020/10/15/b6e22b58-3450-468f-afeb-3218b6ce7acb1602737925709SareemallNavyBluePolyChiffonSolidEthnicPartywearSareewithMat1.jpg"
+    },
+    {
+      "id": 27,
+      "brand": "Ahalyaa",
+      "title": "Striped Ethnic Maxi Dress",
+      "price": 1392,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19411938/2022/8/17/d5f17264-b4a0-4d4b-8392-5325df9b9c601660735051287-Ahalyaa-Women-Dresses-1111660735050677-1.jpg"
+    },
+    {
+      "id": 28,
+      "brand": "Zyla",
+      "title": "Women Sandals",
+      "price": 899,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14116044/2022/7/13/0ef4fd87-792a-4091-8b74-dcc872475d3b1657707800771-Zyla-Women-Rose-Gold-Solid-Sandals-8511657707800403-1.jpg"
+    },
+    {
+      "id": 29,
+      "brand": "Kiana",
+      "title": "Women Mojaris Flats",
+      "price": 591,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17792878/2022/5/5/d86eddb8-e5c7-4e68-bc1e-cf8a08560ec01651729269959KianaWomenOffWhitePrintedMojarisFlats1.jpg"
+    },
+    {
+      "id": 30,
+      "brand": "Mango",
+      "title": "Velvet Structured Sling Bag",
+      "price": 1076,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21435510/2023/1/10/709e28a8-7908-4538-9a58-6458e61791291673346276670indianflowerWomenSolidAnkleLengthLeggingsHandbagsMANGOWomenH1.jpg"
+    },
+    {
+      "id": 31,
+      "brand": "realme",
+      "title": "realme 9 (Stargaze White, 128 GB)",
+      "price": 14599,
+      "image": "https://rukminim1.flixcart.com/image/312/312/l3t2fm80/mobile/v/0/b/-original-imageu8ctfzzstqp.jpeg?q=70"
+    },
+    {
+      "id": 32,
+      "brand": "SAMSUNG",
+      "title": "SAMSUNG Galaxy F23 5G (Aqua Blue, 128 GB)",
+      "price": 14999,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/0/h/k/-original-imagcg22czc3ggvw.jpeg?q=70"
+    },
+    {
+      "id": 33,
+      "brand": "REDMI",
+      "title": "REDMI Note 11 SE (Cosmic White, 64 GB)",
+      "price": 11999,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/r/7/s/-original-imaghh2fmnzyzn2g.jpeg?q=70"
+    },
+    {
+      "id": 34,
+      "brand": "realme",
+      "title": "realme C30 (Bamboo Green, 32 GB)",
+      "price": 5749,
+      "image": "https://rukminim1.flixcart.com/image/312/312/l4ln8nk0/mobile/p/h/p/-original-imagfggryyzyvhgw.jpeg?q=70"
+    },
+    {
+      "id": 35,
+      "brand": "SAMSUNG",
+      "title": "SAMSUNG Galaxy F23 5G (Aqua Blue, 128 GB)",
+      "price": 13999,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/0/h/k/-original-imagcg22czc3ggvw.jpeg?q=70"
+    },
+    {
+      "id": 36,
+      "brand": "Vivo",
+      "title": "vivo T1 5G (Rainbow Fantasy, 128 GB)",
+      "price": 16990,
+      "image": "https://rukminim1.flixcart.com/image/312/312/kzd147k0/mobile/m/c/f/-original-imagbe5qknarjywp.jpeg?q=70"
+    },
+    {
+      "id": 37,
+      "brand": "POCO",
+      "title": "POCO C31 (Shadow Gray, 64 GB)",
+      "price": 7499,
+      "image": "https://rukminim1.flixcart.com/image/312/312/ku4ezrk0/mobile/b/o/m/c31-mzb0a0min-poco-original-imag7bzqxekkpkrv.jpeg?q=70"
+    },
+    {
+      "id": 38,
+      "brand": "MOTOROLA",
+      "title": "MOTOROLA g52 (Metallic White, 128 GB)",
+      "price": 12999,
+      "image": "https://rukminim1.flixcart.com/image/312/312/l29c9e80/mobile/4/f/z/-original-imagdnefpypk9cgx.jpeg?q=70"
+    },
+    {
+      "id": 39,
+      "brand": "Apple",
+      "title": "APPLE iPhone 13 (Midnight, 128 GB)",
+      "price": 60999,
+      "image": "https://rukminim1.flixcart.com/image/312/312/ktketu80/mobile/s/l/c/iphone-13-mlpf3hn-a-apple-original-imag6vzz5qvejz8z.jpeg?q=70"
+    },
+    {
+      "id": 40,
+      "brand": "Apple",
+      "title": "APPLE iPhone 12 mini (Black, 64 GB)",
+      "price": 38999,
+      "image": "https://rukminim1.flixcart.com/image/312/312/kg8avm80/mobile/n/p/d/apple-iphone-12-mini-dummyapplefsn-original-imafwgbfwkfrerak.jpeg?q=70"
+    },
+    {
+      "id": 41,
+      "brand": "OnePlus",
+      "title": "OnePlus Nord CE 2 Lite 5G (Blue Tide, 128 GB)",
+      "price": 19985,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/9/x/u/-original-imagg2abzhxjckxu.jpeg?q=70"
+    },
+    {
+      "id": 42,
+      "brand": "OnePlus",
+      "title": "OnePlus 10R 5G (Forest Green, 128 GB)",
+      "price": 34858,
+      "image": "https://rukminim1.flixcart.com/image/312/312/l2qhjm80/mobile/d/v/o/10r-5g-le2608-oneplus-original-imageypzw8gumvyz.jpeg?q=70"
+    },
+    {
+      "id": 43,
+      "brand": "OnePlus",
+      "title": "OnePlus 10T 5G (Jade Green, 128 GB)",
+      "price": 48999,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/v/8/p/-original-imaggceehgfugqvf.jpeg?q=70"
+    },
+    {
+      "id": 44,
+      "brand": "OnePlus",
+      "title": "OnePlus 10R 5G (Sierra Black, 256 GB)",
+      "price": 40890,
+      "image": "https://rukminim1.flixcart.com/image/312/312/l2qhjm80/mobile/c/f/r/10r-5g-le2608-oneplus-original-imageyq5akea25we.jpeg?q=70"
+    },
+    {
+      "id": 45,
+      "brand": "OnePlus",
+      "title": "OnePlus Nord CE 2 Lite 5G (Black Dusk, 128 GB)",
+      "price": 21999,
+      "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/7/o/d/nord-ce-2-lite-5g-cph2381-oneplus-original-imagdwf8gvgqyr7j.jpeg?q=70"
+    }
+  ]
+}
