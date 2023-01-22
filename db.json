@@ -327,11 +327,6 @@
       "lastName": "Pullagura",
       "email": "govind14634@gmail.com",
       "password": "12344321"
-    },
-    {
-      "email": "govind14634@gmail.com",
-      "password": "12344321",
-      "id": 2
     }
   ],
   "products": [
@@ -649,6 +644,21 @@
       "title": "OnePlus Nord CE 2 Lite 5G (Black Dusk, 128 GB)",
       "price": 21999,
       "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/7/o/d/nord-ce-2-lite-5g-cph2381-oneplus-original-imagdwf8gvgqyr7j.jpeg?q=70"
+    },
+    {
+      "brand": "Asian",
+      "title": "Blue Shoes",
+      "image": "https://m.media-amazon.com/images/I/71haP4iIOnL._AC_UL640_FMwebp_QL65_.jpg",
+      "price": 545,
+      "id": 49
+    },
+    {
+      "brand": "Basics",
+      "title": "T-Shirt",
+      "image": "https://m.media-amazon.com/images/I/41s+YqWfLsL._AC_UL640_FMwebp_QL65_.jpg",
+      "price": 399,
+      "id": 50
     }
-  ]
+  ],
+  "cart": []
 }
